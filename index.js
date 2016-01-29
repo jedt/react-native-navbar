@@ -5,7 +5,8 @@ const {
   Component,
   Text,
   View,
-  PropTypes
+  PropTypes,
+  Platform
 } = React;
 import NavbarButton from './NavbarButton';
 import styles from './styles';
